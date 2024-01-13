@@ -282,50 +282,12 @@ background: #FFF;
     margin-top: 70px;
     margin-left: 15px;
 }
-.third-box1{
-    width: 135px;
-    height: 52px;
-    border-radius: 50px;
-border: 1px solid rgba(191, 200, 226, 0.30);
-background: #FFF;
-margin-left: 80px;
-}
 .third-box2{
-    width: 200.288px;
-    height: 43px;
-    padding: 10px 20px;
+    padding: 10px;
     border-radius: 50px;
 border: 1px solid rgba(191, 200, 226, 0.30);
 background: #FFF;
 }
-.third-box3{
-    width: 225px;
-    height: 43px;
-    padding: 10px 20px;
-    border-radius: 50px;
-border: 1px solid rgba(191, 200, 226, 0.30);
-background: #FFF;
-margin-left: 35px;
-}
-.third-box4{
-    width: 210px;
-height: 43px;
-    padding: 10px 20px;
-    border-radius: 50px;
-border: 1px solid rgba(191, 200, 226, 0.30);
-background: #FFF;
-margin-left: 40px;
-}
-.third-box5{
-    width: 173.862px;
-height: 43px;
-padding: 10px 15px;
-    border-radius: 50px;
-border: 1px solid rgba(191, 200, 226, 0.30);
-background: #FFF;
-margin-left: 60px;
-}
-
 .third-box2 h6{
     font-size: 12px;
     margin-top: 5px;
@@ -342,9 +304,6 @@ margin-left: 60px;
     font-size: 12px;
     margin-top: 5px;
 }
-/* .pioneering-box{
-    overflow-x: hidden;
-} */
 .sec-first-box{
     border-radius: 12px;
 background:linear-gradient( #FEF0EB 0%, #F3F0FF 100%);
@@ -354,7 +313,6 @@ font-size: 12px;
 font-style: normal;
 font-weight: 500;
 margin: 13px;
-/* line-height: 0; */
 color: #8E8E8E;
 }
 .sec-first-box-top-para1{
@@ -447,17 +405,14 @@ background:linear-gradient( #FEF0EB 0%, #F3F0FF 100%);
     font-weight: 300;
 }
 .sec-second-box1{
-    width: 135px;
-    height: 52px;
+    /* width: 135px;
+    height: 52px; */
     border-radius: 50px;
 border: 1px solid rgba(191, 200, 226, 0.30);
 background: #FFF;
-margin-left: 140px;
+/* margin-left: 140px; */
 }
 .sec-second-box2{
-    width: 278px;
-height: 200px;
-flex-shrink: 0;
 border-radius: 12px;
 border: 1px solid #EAEAEE;
 background: #FFF;
@@ -478,27 +433,9 @@ color: #4B4B4B;
     color: #4B4B4B;
     font-weight: 300;
 }
-
-.form{
-    width: 360px;
-   height: 340px;
-    background-color: white;
-    border-radius: 12px;
-    border: 1px solid #EAEAEE;
-}
-.form-2{
-    width: 330px;
-    height: 30px;
-    background-color: white;
-    border-radius: 12px;
-    margin-top: 380px;
-    margin-left: 30px;
-    border: 1px solid #EAEAEE;
-}
-.form-bottom-para {
-    font-size: 15px;
-    color: #4B4B4B;
-    font-weight: 300;
+.form-box h2{
+    color: #FF5D25;
+    font-style: normal;
 }
 .ohoh-find-blog{
     background: linear-gradient(#FEF0EB -36.19%, #F3F0FF 100%);
@@ -536,9 +473,7 @@ font-style: normal;
 border: 1px solid rgba(191, 200, 226, 0.30);
 background: #FFF;
 color:  #609966;
-margin-top: 80px
-
-;
+margin-top: 80px;
 }
 .ohoh-find-box1para,.ohoh-find-box2para{
     font-size: 13px;
