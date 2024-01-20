@@ -21,10 +21,7 @@ html {
 .home-page {
     background-image: linear-gradient(#FEE1ED 100%, #F8F6FF 100%);
     width: 100%;
-    /* animation-duration: infinite 10s;
-   animation-name: bg; */
     animation: bg infinite 10s;
-    /* height: 100%; */
     padding-bottom: 400px;
     position: relative;
 }
@@ -33,11 +30,9 @@ html {
     0% {
         background: #FEE1ED;
     }
-
     50% {
         background: #F8F6FF;
     }
-
     100% {
         background-color: rgb(204, 236, 246);
     }
